@@ -10,7 +10,7 @@ The programming language used to implement these sorting algorithms is GO.
 * [Buble Sort](https://github.com/sameerkhan97/sorting-searching-algorithms-golang/blob/master/bubleSort.go)
 * [Insertion Sort](https://github.com/sameerkhan97/sorting-searching-algorithms-golang/blob/master/insertionSort.go)
 * [Selection Sort](https://github.com/sameerkhan97/sorting-searching-algorithms-golang/blob/master/selectionSort.go)
-* [Shell Sort](https://github.com/sameerkhan97/sorting-searching-algorithms-golang/blob/master/shellSort.go()
+* [Shell Sort](https://github.com/sameerkhan97/sorting-searching-algorithms-golang/blob/master/shellSort.go)
 * [Merge Sort](https://github.com/sameerkhan97/sorting-searching-algorithms-golang/blob/master/mergeSort.go)
 * [Quick Sort](https://github.com/sameerkhan97/sorting-searching-algorithms-golang/blob/master/quickSort.go)
 * [Count Sort](https://github.com/sameerkhan97/sorting-searching-algorithms-golang/blob/master/countSort.go)
